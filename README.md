@@ -1,2 +1,2 @@
 # Model_Traning_For_Spam_Detection
-Train distilbert/distilbert-base-uncased for spam detection on the provided annotated dataset
+Use  distilbert/distilbert-base-uncased for email spam detection on the provided annotated dataset
